@@ -1,0 +1,15 @@
+.task-details-page h2 {
+    text-align: center;
+    margin-bottom: 10px;
+}
+.task-details-page textarea {
+    min-width: 100%;
+    padding: 10px;
+}
+.details-button {
+    text-align: center;
+    margin-top: 15px;
+}
+.details-button button, .details-button a {
+    margin-right: 10px;
+}

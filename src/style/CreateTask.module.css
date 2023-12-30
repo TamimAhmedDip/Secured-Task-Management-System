@@ -1,0 +1,15 @@
+.task-form {
+
+}
+.task-form input ,.task-form textarea, .task-form select {
+    width: 100%;
+    margin-bottom: 10px;
+    padding: 10px;
+}
+.task-form  {
+    text-align: left;
+}
+.task-form label{
+    display: inline-block;
+    margin-bottom: 10px;
+}
